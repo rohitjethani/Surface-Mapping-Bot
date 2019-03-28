@@ -2,6 +2,7 @@
 ##### Project done in Srishti 2017 (Annual Techno-Hobby Exhibition of IIT Roorkee)
 
 <img src="IMG_20170319_233958.jpg" height=400 width=400/>
+[Video](https://www.youtube.com/watch?v=Ga33bChK2Y0)
 
 ### Abstract
 Surface Mapping Bot is an autonomous bot which can move in a specified area and create a 2D map of the whole surface. It can detect the objects and walls that are around it and send their coordinates to the PC via Bluetooth which displays its map on the screen. Ultrasonic sensor is used for the detection of the objects and "Processing" software is used for displaying the map.
@@ -45,6 +46,3 @@ A rectangular wooden board of around 18cm x 15cm is used. The servo is placed on
 ### Future Scope
 *	We can improve its algorithm to map the whole area without any errors.
 *	At present, it can only calculate the distances in three directions (forward, left and right), we can enhance it to measure distances in all directions (360 degree view).
-
-
-
