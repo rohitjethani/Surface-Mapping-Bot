@@ -9,9 +9,9 @@
 Surface Mapping Bot is an autonomous bot which can move in a specified area and create a 2D map of the whole surface. It can detect the objects and walls that are around it and send their coordinates to the PC via Bluetooth which displays its map on the screen. Ultrasonic sensor is used for the detection of the objects and "Processing" software is used for displaying the map.
 
 ### Team Members
-1. Rahul Garg
+1. [Rahul Garg](https://github.com/rg8499)
 2. Aniket Gajare
-3. Rohit Jethani
+3. [Rohit Jethani](https://github.com/rohitjethani)
 
 ### Mentors
 1. Bhaskar Kaushik
